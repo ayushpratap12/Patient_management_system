@@ -1,0 +1,12 @@
+{
+    "P006": {
+        "name": "Rajkumar",
+        "city": "Hardoi",
+        "age": 32,
+        "gender": "male",
+        "height": 3.56,
+        "weight": 72.0,
+        "bmi": 5.68,
+        "verdict": "Underweight"
+    }
+}
